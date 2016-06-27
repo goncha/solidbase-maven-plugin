@@ -1,6 +1,6 @@
 # Solidbase Maven Plugin
 
-Configure migrations in pom.xml and run migrations from mvn.
+Configure [Solidbase](https://github.com/gitbucket/solidbase/) migrations in pom.xml and run migrations from mvn.
 
 ## POM Configuraiton
 
